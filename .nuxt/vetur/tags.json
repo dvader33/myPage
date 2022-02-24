@@ -1,0 +1,14 @@
+{
+  "AboutSection": {
+    "description": "Auto imported from components/AboutSection.vue"
+  },
+  "HeroSection": {
+    "description": "Auto imported from components/HeroSection.vue"
+  },
+  "TechSection": {
+    "description": "Auto imported from components/TechSection.vue"
+  },
+  "WorkSection": {
+    "description": "Auto imported from components/WorkSection.vue"
+  }
+}

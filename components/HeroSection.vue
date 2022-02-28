@@ -4,7 +4,7 @@
         <div class="hero-layer">
             <div class="hero-background"></div>
         </div>
-        <h1>Software Developer</h1>
+        <h1>{{ $t('message') }}</h1>
     </section>
 </template>
 

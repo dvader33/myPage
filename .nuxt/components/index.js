@@ -1,5 +1,6 @@
 export { default as AboutSection } from '../..\\components\\AboutSection.vue'
 export { default as HeroSection } from '../..\\components\\HeroSection.vue'
+export { default as LanguageInput } from '../..\\components\\LanguageInput.vue'
 export { default as TechSection } from '../..\\components\\TechSection.vue'
 export { default as WorkSection } from '../..\\components\\WorkSection.vue'
 

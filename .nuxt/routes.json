@@ -1,6 +1,13 @@
 [
   {
-    "name": "index",
+    "name": "index___en-us",
+    "path": "/en-us",
+    "component": "C:\\\\Users\\\\VaderPC\\\\Desktop\\\\MyPage\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_74bd085f"
+  },
+  {
+    "name": "index___es-es",
     "path": "/",
     "component": "C:\\\\Users\\\\VaderPC\\\\Desktop\\\\MyPage\\\\pages\\\\index.vue",
     "chunkName": "pages/index",

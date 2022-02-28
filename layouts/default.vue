@@ -2,6 +2,7 @@
     <div>
         <header class="head">
             <h1>Daniel Rivera</h1>
+            <language-input/>
         </header>
         <nuxt/>
         <footer class="footer">
@@ -21,7 +22,8 @@
     padding: 16px;
     box-sizing: border-box;
     z-index: 10;
-    align-items: center;
+    align-items: center
+    ;
 }
 
 .footer{

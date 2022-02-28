@@ -5,6 +5,9 @@
   "HeroSection": {
     "description": "Auto imported from components/HeroSection.vue"
   },
+  "LanguageInput": {
+    "description": "Auto imported from components/LanguageInput.vue"
+  },
   "TechSection": {
     "description": "Auto imported from components/TechSection.vue"
   },

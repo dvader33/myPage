@@ -8,5 +8,6 @@ You can directly use them in pages and other components without the need to impo
 
 - `<AboutSection>` | `<about-section>` (components/AboutSection.vue)
 - `<HeroSection>` | `<hero-section>` (components/HeroSection.vue)
+- `<LanguageInput>` | `<language-input>` (components/LanguageInput.vue)
 - `<TechSection>` | `<tech-section>` (components/TechSection.vue)
 - `<WorkSection>` | `<work-section>` (components/WorkSection.vue)

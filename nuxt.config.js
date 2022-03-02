@@ -6,21 +6,32 @@ export default{
          'nuxt-i18n',
          {
            vueI18nLoader: true,
+           strategy: 'prefix',
            defaultLocale: 'es-es',
+           seo: true,
             locales: [
              {
                 code: 'en-us',
-                name: 'English'
+                name: 'English',
+                iso: 'en-US'
              },
              {
                 code: 'es-es',
-                name: 'Spanish'
+                name: 'Español',
+                iso: 'es-ES'
              }
            ],
            vueI18n: i18n
          }
         ]
        ],
+   css: ['~/assets/sass/app.scss'],
+   build: {
+      extractCSS: true,
+      loaders: {
+         limit: 0,
+      }
+   },  
 }
 
 

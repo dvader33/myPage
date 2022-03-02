@@ -1,5 +1,5 @@
 <template>
-<section class="tech">
+<section class="tech" id="tech"> 
     
     <div class="back-layer">
         <div class="tech-background"></div>

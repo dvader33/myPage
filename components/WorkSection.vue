@@ -1,5 +1,5 @@
 <template>
-    <section class="work">
+    <section class="work" id="work">
         <h2>work</h2>
         <div class="places-container">
             <a href="https://www.corporacionbi.com/" target="_blank" class="project project-tile">

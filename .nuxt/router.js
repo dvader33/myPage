@@ -22,7 +22,7 @@ export const routerOptions = {
     component: _74bd085f,
     name: "index___en-us"
   }, {
-    path: "/",
+    path: "/es-es",
     component: _74bd085f,
     name: "index___es-es"
   }],

@@ -8,7 +8,7 @@
     </section>
 </template>
 
-<style>
+<style scoped lang="scss">
 .hero{
     margin-top: -150px;
     height: 100vh;
@@ -16,7 +16,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 
 .hero-layer{

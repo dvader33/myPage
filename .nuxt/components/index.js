@@ -1,8 +1,8 @@
-export { default as AboutSection } from '../..\\components\\AboutSection.vue'
-export { default as HeroSection } from '../..\\components\\HeroSection.vue'
-export { default as LanguageInput } from '../..\\components\\LanguageInput.vue'
-export { default as TechSection } from '../..\\components\\TechSection.vue'
-export { default as WorkSection } from '../..\\components\\WorkSection.vue'
+export const AboutSection = () => import('../..\\components\\AboutSection.vue' /* webpackChunkName: "components/about-section" */).then(c => wrapFunctional(c.default || c))
+export const HeroSection = () => import('../..\\components\\HeroSection.vue' /* webpackChunkName: "components/hero-section" */).then(c => wrapFunctional(c.default || c))
+export const LanguageInput = () => import('../..\\components\\LanguageInput.vue' /* webpackChunkName: "components/language-input" */).then(c => wrapFunctional(c.default || c))
+export const TechSection = () => import('../..\\components\\TechSection.vue' /* webpackChunkName: "components/tech-section" */).then(c => wrapFunctional(c.default || c))
+export const WorkSection = () => import('../..\\components\\WorkSection.vue' /* webpackChunkName: "components/work-section" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/about-section.js": "components/about-section.js",
+    "components/hero-section.js": "components/hero-section.js",
+    "components/tech-section.js": "components/tech-section.js",
+    "components/work-section.js": "components/work-section.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/about-section.js": "components/about-section.js.map",
+    "components/hero-section.js": "components/hero-section.js.map",
+    "components/tech-section.js": "components/tech-section.js.map",
+    "components/work-section.js": "components/work-section.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
